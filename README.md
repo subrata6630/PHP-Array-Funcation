@@ -1,14 +1,8 @@
-# PHP-Array-Funcation
+# এ্যারে কি?
 
-
-এ্যারে কি?
-------------
 এ্যারে হলো পিএইচপি এর একটি ফাংশন। যা একাধিক ভ্যারিয়েবল কে একটি এ্যারে এর মধ্যে সংরক্ষণ করে রাখে । 
-Array ৩ প্রকার : যথাঃ-
- Index Array.
- Associative Array
- Multidimesional Array
+Array ৩ প্রকার : যথাঃ- Index Array,Associative Array, Multidimesional Array
  
 যেমন : আপনি কতগুলো রংয়ের এর নাম একটি ভ্যারিয়েবল এর রাখতে তাহলে আপনাকে পিএইচপি এর এ্যারে ফাংশন ব্যবহার করতে হবে । যদি না করেন তাহেল আপনাকে প্রতিটি রংয়ের জন্য একাধিক ভ্যারিয়েবল লিখতে হবে। 
 
-Ex: https://notepad.pw/1hlw
+Example : https://notepad.pw/1hlw
